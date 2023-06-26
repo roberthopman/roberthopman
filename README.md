@@ -2,6 +2,7 @@
 
 🌱 I’m currently reading
 
+- https://www.w3.org/
 - https://schema.org/
 - https://ssd.eff.org/
 
