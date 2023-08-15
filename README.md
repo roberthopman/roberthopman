@@ -4,6 +4,7 @@
 
 - https://www.w3.org/
 - https://schema.org/
+- https://www.ietf.org/
 - https://ssd.eff.org/
 
 <!--
