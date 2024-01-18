@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently reading
-
-- https://www.w3.org/
-- https://schema.org/
-- https://www.ietf.org/
-- https://ssd.eff.org/
+🌱 
 
 <!--
 **roberthopman/roberthopman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
