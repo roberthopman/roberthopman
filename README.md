@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Interested in bash, git, curl, ruby, js 🌱 
+Interested in bash, git, curl, sql, ruby, js 🌱 
 
 
 
