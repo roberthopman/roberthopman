@@ -2,7 +2,7 @@
 
 Interested in 
 - bash, git, curl, sql, ruby, js 🌱 
-- WCAG (Web Content Accessibility Guidelines): https://www.w3.org/WAI/WCAG22/quickref/?currentsidebar=%23col_customize
+- WCAG (Web Content Accessibility Guidelines)
 
 <!--
 **roberthopman/roberthopman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
