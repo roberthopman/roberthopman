@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 Interested in 
-- bash, git, curl, sql, ruby, js 🌱 
-- WCAG (Web Content Accessibility Guidelines)
+- bash, git, curl, sql, ruby, js 🌱
+- making it work 
+- WCAG (Web Content Accessibility Guidelines) based on https://www.w3.org/TR/WCAG-EM/
+
 
 <!--
 **roberthopman/roberthopman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
